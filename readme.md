@@ -1,6 +1,6 @@
 ## xkcd Restaurant Solution
 
-This is a solution to the xkcd restaurant problem as defined by TableXI
+This is a solution to the xkcd restaurant problem. http://xkcd.com/287/
 
 ### Assumptions
 * You can order an item from the menu multiple times in order to get to the correct price
